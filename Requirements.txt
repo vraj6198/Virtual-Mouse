@@ -1,0 +1,4 @@
+Opencv-python
+NumPy
+Pynput
+Wxpython
