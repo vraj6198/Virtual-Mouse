@@ -4,8 +4,8 @@
 # Instructions
 
 <ul>
-  1. pip install -r requirement.txt 
-  2. Run the python 1.py
+  <li> pip install -r requirement.txt  </li>
+ <li>  Run the python main.py </li>
   </ul>
   
   <h5> Run on Python 3.7 </h5>
